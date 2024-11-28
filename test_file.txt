@@ -3,3 +3,5 @@ test file
 I'm a file.
 
 Inserted new line from the dev branch.
+
+Banana
